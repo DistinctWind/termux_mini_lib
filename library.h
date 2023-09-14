@@ -1,0 +1,6 @@
+#ifndef TERMUX_MINI_LIB_LIBRARY_H
+#define TERMUX_MINI_LIB_LIBRARY_H
+
+void hello(void);
+
+#endif //TERMUX_MINI_LIB_LIBRARY_H
